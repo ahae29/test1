@@ -1,1 +1,6 @@
+%%writefile app.py
+import streamlit as st
 
+st.title("나의 Streamlit 웹 앱")
+st.write("3222ㄴㅇㅇ여기에 원하는 내용을 추ㅇㅇㅊ가하세요!")
+st.write('daskfhdsaf')
